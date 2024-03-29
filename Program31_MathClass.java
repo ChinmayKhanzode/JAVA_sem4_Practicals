@@ -1,3 +1,4 @@
+//Write a java program that uses any 5 methods of "Math" class.
 package Prac;
 
 import java.util.*;
