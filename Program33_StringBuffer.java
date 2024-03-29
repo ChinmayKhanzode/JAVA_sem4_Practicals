@@ -1,3 +1,4 @@
+// Write a java program that uses any 5 methods of "StringBuffer" class.
 package Prac;
 
 public class Exp33 {
